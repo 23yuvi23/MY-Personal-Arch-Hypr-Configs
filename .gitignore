@@ -1,0 +1,9 @@
+.cache/
+.zsh_history
+*.bak
+# App runtime / cache (DO NOT TRACK)
+.config/vesktop/sessionData/
+.config/vesktop/Cache/
+.config/**/Cache/
+.config/**/cache/
+
