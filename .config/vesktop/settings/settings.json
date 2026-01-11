@@ -399,7 +399,8 @@
                         ]
                     }
                 ],
-                "1358611817680736327": []
+                "1358611817680736327": [],
+                "1399437034833182902": []
             },
             "dmSectionCollapsed": false
         },
@@ -664,6 +665,6 @@
         "authenticated": true,
         "url": "https://api.vencord.dev/",
         "settingsSync": true,
-        "settingsSyncVersion": 1768066153180
+        "settingsSyncVersion": 1768144381707
     }
 }
